@@ -1,1 +1,1 @@
-# ltp-css3-specialist
+# Jacques' CSS3 Specialist Repository
